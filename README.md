@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/123577810/233812084-c6aad0cb-ebf9-4fcc-bd23-890968729f09.gif" alt="Screen Recording" width="100%">
 
 <div style="display: flex">
- <h3>Front End <a href="https://github.com/TommieeN/instock-client">Repo</a> </br></h3>
+ <h3>Front End</h3>
  <ul>
   <li>React</li>
   <li>React components</li>
